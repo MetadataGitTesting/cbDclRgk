@@ -1,0 +1,50 @@
+name: russ.cummerata
+description: Re-contextualized
+version: 0.0.1
+author: aohqqvwk.pqt1kanu@819jqiq5.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: russcummerata
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-08-15 20:43:50'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-08-15 20:43:50'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-08-15T20:43:50.639569Z'
+  name: plibMaven
+  version: 8.13.0-SNAPSHOT
+  id: '431715536'
+  createdAt: '2025-08-15T20:43:50.639569Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
